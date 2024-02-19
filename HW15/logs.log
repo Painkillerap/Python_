@@ -1,0 +1,5 @@
+INFO:__main__:{'args': (10, 42, 'Hello'), 'name': 'Stanislav', 'x': 3, 'y': True, 'result': 100}
+INFO:__main__:{'args': (10, 42, 'Hello'), 'name': 'Stanislav', 'x': 3, 'y': True, 'result': 100}
+INFO - 2024-02-19 18:40:07,543 - func: any_name - {'args': (10, 42, 'Hello'), 'name': 'Stanislav', 'x': 3, 'y': True} - "result": 100
+INFO - 2024-02-19 18:40:29,953 - func: any_name - {'args': (10, 42, 'Hello'), 'name': 'Stanislav', 'x': 3, 'y': True} - "result": 100
+INFO - 2024-02-19 18:42:35,355 - func: any_name - {'args': (10, 42, 'Hello'), 'name': 'Stanislav', 'x': 3, 'y': True} - "result": 100
